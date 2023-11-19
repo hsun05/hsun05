@@ -2,6 +2,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hsun05&fontSize=90)
 
+## Contact
+![Status](https://img.shields.io/badge/STATUS-running_own_company-blue)
+[![Gmail](https://img.shields.io/badge/gwangho.hong05@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gwangho.hong05@gmail.com)
+[![Instagram](https://img.shields.io/badge/@hsun05-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/hsun05)
+[![Naver](https://img.shields.io/badge/홍광호-03C75A?style=for-the-badge&logo=naver&logoColor=fff)](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&pkid=1&os=32008205&qvt=0&query=%ED%99%8D%EA%B4%91%ED%98%B8)
+
 ## Fluent Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
@@ -21,7 +27,7 @@
 ![AutoCAD](https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
 ![Fusion 360](https://img.shields.io/badge/FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=fff)
-![ORCAD](https://img.shields.io/badge/ORCAD-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=fff)
+![OrCAD](https://img.shields.io/badge/OrCAD-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=fff)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=fff)
