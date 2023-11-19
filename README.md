@@ -11,14 +11,17 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![English](https://img.shields.io/badge/English-000000?style=for-the-badge&logo=googleearth&logoColor=fff)
+![Korean](https://img.shields.io/badge/Korean-000000?style=for-the-badge&logo=googleearth&logoColor=fff)
 
 ## Programs
 ![vscode](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
 ![vs](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff)
 
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=fff)
 ![AutoCAD](https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
-![Fusion 360](https://img.shields.io/badge/FUSION360-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
+![Fusion 360](https://img.shields.io/badge/FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=fff)
+![ORCAD](https://img.shields.io/badge/ORCAD-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=fff)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=fff)
