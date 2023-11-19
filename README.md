@@ -36,7 +36,11 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Protopie](https://img.shields.io/badge/ProtoPie-FF746C?style=for-the-badge&logoColor=fff)
 
+## Other
+![arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
+![raspberrypi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=fff)
 
 ![hsun05's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsun05&show_icons=true&theme=radical)
 
