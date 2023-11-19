@@ -13,22 +13,21 @@
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
 ## Programs
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff)
+![vscode](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![vs](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff)
 
-![SOLIDWORKS](https://img.shields.io/badge/dassaultsystemes-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=fff)
-![AutoCAD](https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
-![Fusion 360](https://img.shields.io/badge/autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=fff)
+![AutoCAD](https://img.shields.io/badge/AUTOCAD-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
+![Fusion 360](https://img.shields.io/badge/FUSION360-000000?style=for-the-badge&logo=autodesk&logoColor=fff)
 
-![Adobe Creative Cloud](https://img.shields.io/badge/adobecreativecloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=fff)
-![Adobe After Effects](https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
-![Adobe Dreamweaver](https://img.shields.io/badge/adobedreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=fff)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-![Adobe Premiere Pro](https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff)
-![Adobe XD](https://img.shields.io/badge/adobexd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=fff)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=fff)
 
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 
 ![hsun05's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsun05&show_icons=true&theme=radical)
