@@ -44,8 +44,4 @@
 ## Other
 ![arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 ![raspberrypi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=fff)
-
-![hsun05's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsun05&show_icons=true&theme=radical)
-
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hsun05&theme=radical&layout=compact&langs_count=10)
 </div>
