@@ -6,7 +6,7 @@ Gwangho (Daniel) HONG\
 CEO, CTO @[HABLE ON](https://hableon.com/)\
 AI Enginner, Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
 
-Tech University of Korea, Computer and Electronic Engineering
+Tech University of Korea, Computer and Electronic Engineering [24]
 
 <div align="center">
 
