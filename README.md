@@ -1,12 +1,13 @@
 ## INFO
-hsun05
-Gwangho (Daniel) HONG
-홍광호
+hsun05\
+Gwangho (Daniel) HONG\
+홍광호\
 
-CEO, CTO of HABLE ON
-AI Enginner, Developer @ Smileserv, IaaS Dept
+CEO, CTO of HABLE ON\
+AI Enginner, Developer @ Smileserv, IaaS Dept\
 
-Tech University of Korea, Computer and Electronic Engineering
+Tech University of Korea, Computer and Electronic Engineering\
+
 <div align="center">
 
 ## ME
