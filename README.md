@@ -1,6 +1,13 @@
+## INFO
+hsun05
+Gwangho (Daniel) HONG
+홍광호
+
+CEO, CTO of HABLE ON
+AI Enginner, Developer @ Smileserv, IaaS Dept
+
+Tech University of Korea, Computer and Electronic Engineering
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hsun05&fontSize=90)
 
 ## ME
 [![Gmail](https://img.shields.io/badge/gwangho.hong05-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gwangho.hong05@gmail.com)
