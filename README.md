@@ -8,8 +8,6 @@ AI Enginner, Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
 
 Tech University of Korea, Computer and Electronic Engineering [24]
 
-<div align="center">
-
 ## ME
 [![Gmail](https://img.shields.io/badge/gwangho.hong05-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gwangho.hong05@gmail.com)
 [![Instagram](https://img.shields.io/badge/@hsun05-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/hsun05)
@@ -52,4 +50,3 @@ Tech University of Korea, Computer and Electronic Engineering [24]
 ## Other
 ![arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=fff)
 ![raspberrypi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=fff)
-</div>
