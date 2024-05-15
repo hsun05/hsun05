@@ -3,7 +3,7 @@ hsun05\
 Gwangho (Daniel) HONG\
 홍광호
 
-CEO, CTO @[HABLE ON](https://hableon.com/)\
+CEO @[HABLE ON](https://hableon.com/)\
 AI Enginner, Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
 
 Tech University of Korea, Computer and Electronic Engineering [24]
