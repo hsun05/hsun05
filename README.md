@@ -1,15 +1,17 @@
 ## INFO
-hsun05\
-Gwangho (Daniel) HONG\
-홍광호
+**hsun05**  
+**Gwangho (Daniel) HONG**  
+**홍광호**
 
-CEO @[HABLE ON](https://hableon.com/)\
-AI Enginner, Full Stack Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
+**CEO** @[HABLE ON](https://hableon.com/)  
+**AI Engineer & Full Stack Developer** @[Smileserv](https://iwinv.kr/), IaaS Dept
 
-~~2024-07-19 ~ 2024-11-08 Github got hacked~~
+> Primarily use GitLab
+> ~~GitHub compromised (2024-07-19 ~ 2024-11-08)~~
+
 
 ## ME
-[![Gmail](https://img.shields.io/badge/gwangho.hong05-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gwangho.hong05@gmail.com)
+[![Gmail](https://img.shields.io/badge/gwangho.hong05-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:hsun05@hableon.com)
 [![Instagram](https://img.shields.io/badge/@hsun05-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/hsun05)
 [![Naver](https://img.shields.io/badge/홍광호-03C75A?style=for-the-badge&logo=naver&logoColor=fff)](https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bjky&pkid=1&os=32008205&qvt=0&query=%ED%99%8D%EA%B4%91%ED%98%B8)
 
