@@ -4,9 +4,9 @@ Gwangho (Daniel) HONG\
 홍광호
 
 CEO @[HABLE ON](https://hableon.com/)\
-AI Enginner, Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
+AI Enginner, Full Stack Developer @[Smileserv](https://iwinv.kr/), IaaS Dept
 
-Tech University of Korea, Computer and Electronic Engineering [24]
+~~2024-07-19 ~ 2024-11-08 Github got hacked~~
 
 ## ME
 [![Gmail](https://img.shields.io/badge/gwangho.hong05-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gwangho.hong05@gmail.com)
