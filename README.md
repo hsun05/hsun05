@@ -7,6 +7,7 @@
 **AI Engineer & Full Stack Developer** @[Smileserv](https://iwinv.kr/), IaaS Dept
 
 > Primarily use GitLab
+
 > ~~GitHub compromised (2024-07-19 ~ 2024-11-08)~~
 
 
